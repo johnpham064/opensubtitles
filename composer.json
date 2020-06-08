@@ -1,0 +1,22 @@
+{
+    "name": "kickasssubtitles/open-subtitles",
+    "description": "PHP client for OpenSubtitles API",
+    "type": "library",
+    "homepage": "https://github.com/kickasssubtitles/open-subtitles",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "grzesw",
+            "email": "contact@kickasssubtitles.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "KickAssSubtitles\\OpenSubtitles\\": "."
+        }
+    }
+}
