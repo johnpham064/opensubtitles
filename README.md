@@ -1,6 +1,6 @@
 # PHP client for OpenSubtitles API
 
-## Usage
+## Usage HELLO
 
 ```php
 $client = KickAssSubtitles\OpenSubtitles\Client::create([
