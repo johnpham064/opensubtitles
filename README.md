@@ -1,6 +1,7 @@
 # PHP client for OpenSubtitles API
 
 ## Usage HELLO
+## New Feature from john
 ## add by sadad
 ```php
 $client = KickAssSubtitles\OpenSubtitles\Client::create([
